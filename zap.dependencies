@@ -1,0 +1,33 @@
+
+[
+    {
+        "repository": "device_samsung_p3100",
+        "remote": "zap", 
+        "target_path": "device/samsung/p3100",
+        "revision": "zap"
+    },
+    {
+        "repository": "android_device_samsung_omap4-common",
+        "remote": "cm", 
+        "target_path": "device/samsung/omap4-common",
+        "revision": "cm-11.0"
+    },
+    {
+        "repository": "android_kernel_samsung_espresso10",
+        "remote": "cm", 
+        "target_path": "kernel/samsung/espresso10",
+        "revision": "cm-11.0"
+    },
+    {
+        "repository": "proprietary_vendor_samsung",
+        "remote": "tm", 
+        "target_path": "vendor/samsung",
+        "revision": "cm-11.0"
+    },
+    {
+        "repository": "hardware_samsung",
+        "remote": "slim", 
+        "target_path": "hardware/samsung",
+        "revision": "kk4.4"
+    }
+]
